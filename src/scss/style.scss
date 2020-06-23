@@ -1,0 +1,17 @@
+@import "base/normalize";
+@import "base/fonts";
+@import "base/variables";
+@import "base/mixins";
+
+* {
+	box-sizing: border-box;
+}
+
+section {
+	padding: 2em 0;
+}
+
+@import "layouts/header";
+
+
+
